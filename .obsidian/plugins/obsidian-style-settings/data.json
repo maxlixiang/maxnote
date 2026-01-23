@@ -42,5 +42,6 @@
   "Appearance-light@@shadow-activated-tab-header-light": "none",
   "Appearance-light@@color-activated-tab-header-underline-light": "var(--color-accent)",
   "Appearance-light@@workspace-divider-transparent-light": true,
-  "minimal-style@@callouts-style": "callouts-outlined"
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "Components@@colorful-folder": true
 }
