@@ -189,3 +189,6 @@ print("姓名是%s，年龄是%d" %(name,age))
 
 print("姓名是{name}，年龄是{age}" )
 ```
+
+
+## list和tuple
