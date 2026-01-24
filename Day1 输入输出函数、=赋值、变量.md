@@ -16,6 +16,12 @@ line3
 只要最后是结束的三个单引号\'\'\'
 
 ''')
+name = "小明"
+age = 20
+print(f"名字是{name}，年龄是{age}。")  # 输出: 名字是小明，年龄是20。
+
+
+
 ```
 
 
@@ -23,6 +29,7 @@ line3
 	1. \是转移符
 	2. r""，表示双引号内部的内容不会被转义，r''，两个单引号也可以表示同样的意思
 	3. 三个单引号'''
+	4. print(f)的用法
 ```python
 s4 = r'''Hello,
 
@@ -171,3 +178,14 @@ except UnicodeDecodeError as e:
 
 
 https://liaoxuefeng.com/books/python/basic/string-encoding/index.html 
+
+
+## 格式化
+
+```python
+name = "张三"
+age = 10
+print("姓名是%s，年龄是%d" %(name,age))
+
+print("姓名是{name}，年龄是{age}" )
+```
