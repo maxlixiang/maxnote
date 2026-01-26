@@ -94,8 +94,8 @@ def person(name, age, *, city, job):
 ```
 
 
-![500](assets/Day2%20函数/file-20260126152915642.png)
-![500](assets/Day2%20函数/file-20260126152937853.png)
+![500](assets/Day2%20函数/file-20260126212938188.png)
+![500](assets/Day2%20函数/file-20260126212938175.png)
 
 
 
