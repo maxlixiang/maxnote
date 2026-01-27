@@ -5,6 +5,7 @@ map可以单个参数或者多个参数，reduce只能2个参数
 filter函数和map类似，不同的是它有过滤作用，返回的也是一个迭代器`Iterator`
 sotred的用法，reverse=true, key = str.low
 要会区分函数和函数的引用，abs()这是函数的引用，abs是函数（也可以说函数名，区别就是你和你的名字的区别）
+sorted函数和list的sort方法之间的区别，list的方法只能用于List，但是sorted函数可以用于所有`Iterable`对象，list，tuple，字典。list的sort方法是改变原来的list，但是sorted函数是创建一个新的list。
 
 ---
 
