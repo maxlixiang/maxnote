@@ -46,5 +46,8 @@
   "Components@@colorful-folder": true,
   "Editor@@p-spacing-br": false,
   "Editor@@line-height-customize": 2,
-  "Editor@@p-spacing": "2em"
+  "Editor@@p-spacing": "2em",
+  "Appearance-light@@card-layout-open-light": false,
+  "Editor@@h2-size": "1.2em",
+  "Editor@@h2-weight": 575
 }
